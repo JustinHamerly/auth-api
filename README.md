@@ -1,4 +1,6 @@
-# TITLE
+# Authentication Server
+
+Author: Justin Hamerly
 
 ## PROBLEM DOMAIN
 
